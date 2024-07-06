@@ -1,0 +1,673 @@
+,Unnamed: 0,Brand,OS,RAM,ROM,Prices,Display,Processor,Warranty,Rating
+0,0,HP,Windows 11,8,512,42000,15.6,Intel Core i3 ,1,4.2
+1,1,ASUS,Windows 11,8,512,53990,15.6,Intel Core i5 ,1,4.3
+2,2,ASUS,Windows 11,16,512,64990,15.6,Intel Core i5 ,1,4.5
+3,3,SAMSUNG,Windows 11,16,512,64990,13.3,Intel Core i5 ,1,4.5
+4,4,SAMSUNG,Windows 11,8,512,44990,15.6,Intel Core i5 ,1,4.3
+5,5,SAMSUNG,Windows 11,16,512,48990,15.6,Intel Core i5 ,1,4.3
+6,6,DELL,Windows 11,16,512,51990,15.6,Intel Core i5 ,1,4.1
+7,7,DELL,Windows 11,16,512,40990,14,Intel Core i5 ,1,3.7
+8,8,HP,Windows 11,8,512,41000,14,Intel Core i3 ,1,4.3
+9,9,HP,Windows 11,16,512,50399,15.6,Intel Core i5 ,1,4.3
+10,10,ASUS,Windows 11,8,512,44990,15.6,AMD Ryzen 3 Quad Core ,1,4.4
+11,11,ASUS,Windows 11,8,512,44990,15.6,AMD Ryzen 5 Quad Core ,1,4.4
+12,12,ASUS,Windows 11,16,512,52990,15.6,Intel Core i5 ,1,4.3
+13,13,ASUS,Windows 11,8,512,53990,15.6,Intel Core i5 ,1,4.4
+14,14,ASUS,Windows 11,8,512,44990,15.6,AMD Ryzen 5 Quad Core ,1,4.4
+15,15,Lenovo,Windows 11,8,512,40300,15.6,AMD Ryzen 5 Hexa Core ,1,4.6
+16,16,ASUS,Windows 11,16,512,51990,15.6,Intel Core i5 ,1,4.1
+17,17,DELL,Windows 11,16,512,45990,14.96,Intel Core i5 ,1,4.1
+18,18,HP,Windows 11,16,512,60990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+19,19,ASUS,Windows 11,16,512,52990,15.6,Intel Core i5 ,1,3.8
+20,20,ASUS,Windows 11,8,512,44990,15.6,AMD Ryzen 5 Quad Core ,1,4.4
+21,21,HP,Windows 11,16,512,45490,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+22,22,DELL,Windows 11,8,512,44770,15.6,Intel Core i5 ,1,4.3
+23,23,HP,Windows 11,16,512,45990,15.6,AMD Ryzen 5 Quad Core ,1,4.2
+24,24,ASUS,Windows 11,16,512,52990,15.6,Intel Core i5 ,1,4.2
+25,25,ASUS,Windows 11,16,512,45890,14,AMD Ryzen 5 Quad Core ,1,4.2
+26,26,HP,Windows 11,8,512,41500,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+27,27,DELL,Windows 11,8,512,48980,15.6,Intel Core i5 ,1,4.4
+28,28,DELL,Windows 11,8,512,48480,15.6,Intel Core i5 ,1,4.4
+29,29,DELL,Windows 11,8,512,44770,15.6,Intel Core i5 ,1,4.3
+30,30,Lenovo,Windows 11,16,512,65190,16,Intel Core i5 ,1,4.2
+31,31,ASUS,Windows 11,16,512,66990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+32,32,ASUS,Windows 11,16,512,66990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+33,33,DELL,Windows 11,16,1024,70790,14,Intel Core i5 ,1,3.7
+34,34,HP,Windows 11,16,512,68990,15.6,Intel Core i5 ,1,3.7
+35,35,HP,Windows 11,8,512,48999,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+36,36,HP,Windows 11,8,512,46990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+37,37,HP,Windows 11,8,512,50990,15.6,Intel Core i5 ,1,4.2
+38,38,Lenovo,Windows 11,16,512,59490,15.6,Intel Core i5 ,1,4.2
+39,39,HP,Windows 11,8,512,49990,15.6,Intel Core i5 ,1,4.3
+40,40,DELL,Windows 11,8,512,41460,14,Intel Core i5 ,1,3.9
+41,41,DELL,Windows 10,8,512,41490,14,Intel Core i5 ,1,3.9
+42,42,Lenovo,Windows 11,8,512,59190,14,Intel Core i3 ,1,4.5
+43,43,Lenovo,Windows 11,16,512,63818,14,Intel Core i5 ,1,4.2
+44,44,Apple,Mac,8,256,82990,13.3,Apple M1 ,1,4.7
+45,45,ASUS,Windows 11,16,512,49990,15.6,AMD Ryzen 7 Octa Core ,1,4.2
+46,46,HP,Windows 11,16,512,58990,16.1,Intel Core i5 ,1,4.3
+47,47,DELL,Windows 11,8,512,47890,15.6,Intel Core i5 ,1,4.1
+48,48,HP,Windows 11,16,512,58990,16.1,Intel Core i5 ,1,4.3
+49,49,DELL,Windows 11,8,512,45990,15.6,Intel Core i5 ,1,4.1
+50,50,Apple,Mac,8,256,82990,13.3,Apple M1 ,1,4.7
+51,51,DELL,Windows 11,8,1024,53191,15.6,Intel Core i5 ,1,3.7
+52,52,ASUS,Windows 11,8,512,42240,15.6,Intel Core i5 ,1,4.3
+53,53,Lenovo,Windows 10,8,512,41990,14,Intel Core i5 ,1,4.3
+54,54,ASUS,Windows 11,8,512,44990,15.6,AMD Ryzen 3 Quad Core ,1,4.4
+55,55,DELL,Windows 11,8,512,42476,14,Intel Core i5 ,1,3.6
+56,56,ASUS,Windows 11,16,512,55890,16,AMD Ryzen 7 Octa Core ,1,4.3
+57,57,HP,Windows 11,16,1024,66990,15.6,Intel Core i5 ,1,4.1
+58,58,DELL,Windows 11,8,512,41990,15.6,Intel Core i5 ,1,4.2
+59,59,ASUS,Windows 11,8,512,44990,15.6,AMD Ryzen 3 Quad Core ,1,4.4
+60,60,Lenovo,Windows 11,16,512,57990,15.6,Intel Core i7 ,1,4.1
+61,61,HP,Windows 11,8,512,40200,15.6,Intel Core i3 ,1,4.2
+62,62,HP,Windows 11,8,512,49990,14,AMD Ryzen 5 Hexa Core ,1,4.4
+63,63,Apple,Mac,8,256,99900,13.6,Apple M2 ,1,4.7
+64,64,DELL,Windows 11,8,512,42990,15.6,Intel Core i5 ,1,3.9
+65,65,Lenovo,Windows 11,8,512,52990,15.6,Intel Core i5 ,1,4.1
+66,66,HP,Windows 11,16,512,65990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+67,67,Apple,Mac,8,256,89900,13.3,Apple M1 ,1,4.7
+68,68,DELL,Windows 11,8,512,41737,15.6,Intel Core i3 ,1,4.1
+69,69,ASUS,Windows 11,8,512,40990,15.6,Intel Core i3 ,1,4.2
+70,70,Lenovo,Windows 11,16,512,62190,16,Intel Core i5 ,1,4.3
+71,71,ASUS,Windows 11,8,512,41827,15.6,Intel Core i3 ,1,4.3
+72,72,Lenovo,Windows 10,8,512,48500,15.6,Intel Core i5 ,1,3.6
+73,73,HP,Windows 11,16,512,53990,15.6,Intel Core i5 ,1,4.1
+74,74,Lenovo,Windows 11,16,512,51990,15.6,Intel Core i5 ,2,4.2
+75,75,Lenovo,Windows 11,16,512,49980,15.6,Intel Core i5 ,1,4.2
+76,76,Lenovo,Windows 10,8,1024,56676,15.6,Intel Core i5 ,1,4.3
+77,77,DELL,Windows 11,8,512,40434,15.6,Intel Core i3 ,1,4.4
+78,78,HP,Windows 11,16,1024,65490,14,Intel Core i5 ,1,4.3
+79,79,HP,Windows 11,8,512,58990,15.6,Intel Core i5 ,1,4.4
+80,80,Lenovo,Windows 11,16,512,54990,15.6,Intel Core i5 ,1,4.4
+81,81,HP,Windows 11,16,512,56990,14,AMD Ryzen 5 Hexa Core ,1,4.4
+82,82,ASUS,Windows 11,16,512,49990,15.6,AMD Ryzen 7 Octa Core ,1,4.2
+83,83,HP,Windows 11,16,512,62490,14,Intel Core i5 ,1,4.3
+84,84,ASUS,Windows 11,16,512,43990,14,Intel Core i5 ,1,4.3
+85,85,DELL,Windows 11,8,1024,45100,15.6,Intel Core i5 ,1,4.2
+86,86,HP,Windows 11,16,512,71990,15.6,Intel Core i5 ,1,4.5
+87,87,ASUS,Windows 11,16,512,109990,15.6,Intel Core i7 ,1,4.5
+88,88,HP,Windows 11,8,512,57990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+89,89,Lenovo,Windows 11,16,512,90990,15.6,Intel Core i5 ,1,4.6
+90,90,DELL,Windows 11,8,512,53999,14,Intel Core i3 ,1,4.2
+91,91,HP,Windows 11,16,512,78990,16.1,AMD Ryzen 7 Octa Core ,1,4.5
+92,92,ASUS,Windows 11,16,512,60990,16,Intel Core i5 ,1,4.5
+93,93,ASUS,Windows 11,16,512,104990,15.6,Intel Core i5 ,1,4.5
+94,94,Lenovo,Windows 11,16,512,48290,15.6,AMD Ryzen 7 Octa Core ,1,4.2
+95,95,ASUS,Windows 11,16,512,49990,16,AMD Ryzen 5 Hexa Core ,1,4.4
+96,96,ASUS,Windows 11,16,512,49990,16,AMD Ryzen 5 Hexa Core ,1,4.4
+97,97,Lenovo,Windows 11,32,1024,144990,16,Intel Core i7 ,1,2.8
+98,98,Lenovo,Windows 11,8,512,62990,15.6,Intel Core i5 ,1,4.3
+99,99,Apple,Mac,8,256,82990,13.3,Apple M1 ,1,4.7
+100,100,Lenovo,Windows 11,16,512,48290,15.6,AMD Ryzen 7 Octa Core ,1,4.2
+101,101,Lenovo,Windows 11,16,512,80190,14,Intel Core i5 ,1,4.2
+102,102,Lenovo,Windows 11,8,512,40499,15.6,AMD Ryzen 5 Hexa Core ,1,3.6
+103,103,Lenovo,Windows 11,16,512,77190,14,Intel Core i5 ,1,4.6
+104,104,Apple,Mac,8,256,99900,13.6,Apple M2 ,1,4.7
+105,105,DELL,Windows 11,8,512,48790,15.6,Intel Core i5 ,1,3.4
+106,106,HP,Windows 11,16,512,50999,15.6,AMD Ryzen 5 Hexa Core ,1,3.9
+107,107,Lenovo,Windows 11,8,512,52990,15.6,Intel Core i5 ,1,4.1
+108,108,HP,Windows 11,16,512,70800,15.6,Intel Core i5 ,1,4.1
+109,109,Lenovo,Windows 11,8,512,47990,15.6,AMD Ryzen 5 Quad Core ,1,4.1
+110,110,HP,Windows 10,8,512,47250,15.6,Intel Core i5 ,1,4.4
+111,111,ASUS,Windows 11,16,512,97990,14,Intel Core i7 ,1,4.4
+112,112,Lenovo,Windows 11,16,512,54990,15.6,AMD Ryzen 5 Hexa Core ,1,4.2
+113,113,HP,Windows 11,16,512,54990,15.6,Intel Core i5 ,1,4.2
+114,114,Lenovo,Windows 11,8,512,48490,15.6,AMD Ryzen 5 Quad Core ,1,4.2
+115,115,ASUS,Windows 11,16,512,55990,14,Intel Core i5 ,1,4.4
+116,116,ASUS,Windows 11,8,512,53490,15.6,Intel Core i5 ,1,4.8
+117,117,ASUS,Windows 11,16,512,76990,16,Intel Core i5 ,1,4.8
+118,118,HP,Windows 11,8,1024,62980,15.6,Intel Core i5 ,1,4.2
+119,119,HP,Windows 11,8,512,42990,15.6,AMD Ryzen 5 Quad Core ,1,4.2
+120,120,Apple,Mac,8,256,99900,13.6,Apple M2 ,1,4.7
+121,121,ASUS,Windows 11,16,512,62990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+122,122,ASUS,Windows 11,16,1024,78690,15.6,Intel Core i7 ,1,4.6
+123,123,ASUS,Windows 11,16,512,97990,14,Intel Core i7 ,1,4.6
+124,124,HP,Windows 11,8,512,49490,15.6,Intel Core i5 ,1,4.2
+125,125,Lenovo,Windows 11,8,512,48490,15.6,AMD Ryzen 5 Quad Core ,1,4.2
+126,126,DELL,Windows 11,8,512,42990,15.6,Intel Core i3 ,1,4.2
+127,127,DELL,Windows 11,8,512,45999,15.6,Intel Core i3 ,1,4.2
+128,128,HP,Windows 11,8,512,40990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+129,129,HP,Windows 11,8,512,42990,15.6,AMD Ryzen 5 Quad Core ,1,4.3
+130,130,Lenovo,Windows 11,16,512,60990,15.6,Intel Core i5 ,1,4.3
+131,131,HP,Windows 11,16,1024,77490,14,Intel Core i5 ,1,4.3
+132,132,HP,Windows 11,8,512,40416,15.6,Intel Core i3 ,1,4.2
+133,133,HP,Windows 11,8,512,48490,15.6,Intel Core i3 ,1,4.4
+134,134,ASUS,Windows 11,16,512,67990,16,Intel Core i5 ,1,4.2
+135,135,ASUS,Windows 10,8,512,65500,14,Intel Core i5 ,1,4.2
+136,136,Lenovo,Windows 11,16,512,67190,14,Intel Core i5 ,1,4.1
+137,137,HP,Windows 11,8,512,48010,15.6,Intel Core i5 ,1,4.3
+138,138,DELL,Windows 11,8,512,43890,15.6,Intel Core i3 ,1,4.1
+139,139,ASUS,Windows 11,8,512,47990,15.6,Intel Core i5 ,1,4.1
+140,140,ASUS,Windows 11,16,512,55990,16,AMD Ryzen 7 Octa Core ,1,4.6
+141,141,HP,Windows 11,8,1024,62980,15.6,Intel Core i5 ,1,4.2
+142,142,Apple,Mac,8,512,144990,15.3,Apple M2 ,1,4.7
+143,143,ASUS,Windows 11,8,1024,65990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+144,144,Lenovo,Windows 11,8,512,49990,15.6,AMD Ryzen 5 Quad Core ,1,4.1
+145,145,Lenovo,Windows 11,16,512,54990,15.6,Intel Core i5 ,1,4.1
+146,146,HP,Windows 11,16,512,129990,16.1,Intel Core i7 ,1,4.1
+147,147,DELL,Windows 11,16,512,83990,14,Intel Core i7 ,1,4.1
+148,148,ASUS,Windows 11,8,512,43990,15.6,AMD Ryzen 5 Quad Core ,1,4.3
+149,149,Lenovo,Windows 11,16,512,84990,15.6,Intel Core i5 ,1,4.3
+150,150,SAMSUNG,Windows 11,16,512,79990,15.6,Intel Core i5 ,1,4.4
+151,151,Lenovo,Windows 10,8,256,57500,14,AMD Ryzen 5 Hexa Core ,1,4.4
+152,152,ASUS,Windows 11,16,1024,99990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+153,153,ASUS,Windows 11,16,512,47990,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+154,154,DELL,Windows 11,8,512,48390,15.6,Intel Core i5 ,1,4.1
+155,155,ASUS,Windows 11,16,512,67990,16,Intel Core i5 ,1,4.2
+156,156,ASUS,Windows 11,16,512,68990,15.6,Intel Core i5 ,1,3.5
+157,157,ASUS,Windows 11,16,512,68990,14,Intel Core i5 ,1,4.4
+158,158,DELL,Windows 11,8,512,42990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+159,159,ASUS,Windows 11,16,512,68990,14,Intel Core i5 ,1,4.4
+160,160,ASUS,Windows 11,16,1024,149990,15.6,Intel Core i9 ,1,3.7
+161,161,DELL,Windows 11,16,512,84990,16,Intel Core i7 ,1,4.2
+162,162,HP,Windows 11,16,1024,83800,14,Intel Core i5 ,1,4.3
+163,163,HP,Windows 11,16,512,78990,15.6,Intel Core i7 ,1,4.3
+164,164,Apple,Mac,8,512,144990,15.3,Apple M2 ,1,4.7
+165,165,Lenovo,Windows 11,8,512,54900,14,AMD Ryzen 5 Hexa Core ,1,4.4
+166,166,HP,Windows 11,8,512,40299,15.6,Intel Core i3 ,1,4.8
+167,167,HP,Windows 11,16,512,67500,15.6,Intel Core i5 ,1,4.2
+168,168,DELL,Windows 11,16,512,84990,16,Intel Core i7 ,1,4.2
+169,169,ASUS,Windows 11,16,1024,99990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+170,170,Lenovo,Windows 11,16,512,67990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+171,171,ASUS,Windows 11,16,512,61990,14,Intel Core i5 ,1,4.3
+172,172,Apple,Mac,8,512,144990,15.3,Apple M2 ,1,4.7
+173,173,ASUS,Windows 11,8,512,42500,15.6,Intel Core i3 ,1,4.3
+174,174,HP,Windows 11,16,512,78990,15.6,Intel Core i7 ,1,4.3
+175,175,HP,Windows 11,16,1024,83800,14,Intel Core i5 ,1,4.3
+176,176,HP,Windows 11,8,512,40810,14,Intel Core i3 ,1,4.2
+177,177,HP,Windows 11,8,512,40299,15.6,Intel Core i3 ,1,4.8
+178,178,HP,Windows 11,16,512,67500,15.6,Intel Core i5 ,1,4.2
+179,179,HP,Windows 11,16,512,112900,13.3,Intel Core i7 ,1,4.3
+180,180,HP,Windows 11,16,1024,89999,15.6,Intel Core i7 ,1,4.3
+181,181,ASUS,Windows 11,8,512,47990,15.6,Intel Core i5 ,1,4.2
+182,182,ASUS,Windows 11,8,512,58990,14,Intel Core i5 ,1,4.3
+183,183,ASUS,Windows 11,8,512,42990,15.6,Intel Core i3 ,1,4.5
+184,184,HP,Windows 11,8,512,49490,15.6,Intel Core i5 ,1,3.9
+185,185,ASUS,Windows 11,16,512,77990,15.6,Intel Core i7 ,1,3.9
+186,186,HP,Windows 11,8,512,41999,15.6,Intel Core i3 ,1,4.3
+187,187,HP,Windows 11,16,512,55990,15.6,AMD Ryzen 7 Octa Core ,1,4.2
+188,188,DELL,Windows 11,16,512,79990,15.6,Intel Core i5 ,1,4.2
+189,189,DELL,Windows 11,16,1024,179483,15.6,Intel Core i7 ,1,4.2
+190,190,HP,Windows 11,8,512,44999,15.6,Intel Core i3 ,1,4.2
+191,191,ASUS,Windows 11,8,512,59990,14,AMD Ryzen 5 Hexa Core ,1,4.4
+192,192,ASUS,Windows 11,16,1024,107991,15.6,AMD Ryzen 7 Octa Core ,1,4.6
+193,193,ASUS,Windows 11,8,512,55350,15.6,Intel Core i5 ,1,4.6
+194,194,Apple,Mac,8,256,125990,15.3,Apple M2 ,1,4.7
+195,195,Lenovo,Windows 11,16,512,65990,14,Intel Core i5 ,1,4.7
+196,196,DELL,Windows 11,16,1024,66490,15.6,Intel Core i5 ,1,4.7
+197,197,DELL,Windows 11,16,512,79990,15.6,Intel Core i5 ,1,3.8
+198,198,HP,Windows 10,8,512,40900,15.6,Intel Core i3 ,1,4.3
+199,199,ASUS,Windows 11,16,512,66990,15.6,Intel Core i5 ,1,4.8
+200,200,ASUS,Windows 10,8,512,51500,15.6,Intel Core i5 ,1,4.4
+201,201,Lenovo,Windows 11,16,512,69990,15.6,Intel Core i5 ,1,4.3
+202,202,ASUS,Windows 11,16,512,44990,15.6,AMD Ryzen 5 Quad Core ,1,4.3
+203,203,HP,Windows 11,8,512,41990,14,AMD Ryzen 5 Hexa Core ,1,4.3
+204,204,DELL,Windows 11,8,512,68890,15.6,Intel Core i5 ,1,4.4
+205,205,DELL,Windows 11,16,512,70000,15.6,Intel Core i5 ,1,4.1
+206,206,Lenovo,Windows 11,16,512,69990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+207,207,ASUS,Windows 11,16,512,57500,16,AMD Ryzen 5 Hexa Core ,1,4.5
+208,208,ASUS,Windows 10,16,512,76500,17.3,AMD Ryzen 7 Octa Core ,1,4.5
+209,209,Apple,Mac,8,256,99900,13.6,Apple M2 ,1,4.7
+210,210,Lenovo,Windows 11,8,512,55500,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+211,211,ASUS,Windows 11,16,512,62990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+212,212,Lenovo,Windows 11,16,512,102990,15.6,Intel Core i7 ,1,4.4
+213,213,Lenovo,Windows 11,16,512,43990,15.6,AMD Ryzen 5 Quad Core ,1,3.9
+214,214,ASUS,Windows 11,16,1024,63990,15.6,AMD Ryzen 7 Octa Core ,1,3.9
+215,215,HP,Windows 11,16,512,61990,16.1,Intel Core i5 ,1,4.1
+216,216,Apple,Mac,8,512,144990,15.3,Apple M2 ,1,4.7
+217,217,SAMSUNG,Windows 11,16,512,114990,15.6,Intel Core 5 ,1,4.7
+218,218,DELL,Windows 11,16,512,72990,14,Intel Core 5 ,1,3.9
+219,219,DELL,Windows 11,8,512,68890,15.6,Intel Core i5 ,1,4.4
+220,220,SAMSUNG,Windows 11,8,256,60990,15.6,Intel Core i5 ,1,4.5
+221,221,ASUS,Windows 11,16,1024,139990,14,AMD Ryzen 9 Octa Core ,1,4.5
+222,222,HP,Windows 11,16,512,64391,13.3,AMD Ryzen 5 Hexa Core ,1,4.3
+223,223,Lenovo,Windows 11,8,512,48990,15.6,Intel Core i5 ,1,4.1
+224,224,Apple,Mac,8,256,125990,15.3,Apple M2 ,1,4.7
+225,225,Lenovo,Windows 11,16,1024,76990,14,Intel Core Ultra 5 ,1,4.4
+226,226,ASUS,Windows 11,16,512,74990,14,Intel Core i7 ,1,4.3
+227,227,HP,Windows 11,16,512,92999,15.6,Intel Core i7 ,1,3.6
+228,228,HP,Windows 11,16,512,71990,15.6,Intel Core i5 ,1,4.4
+229,229,ASUS,Windows 11,16,512,41790,15.6,Intel Core i3 ,1,4.3
+230,230,ASUS,Windows 11,16,512,64990,14,AMD Ryzen 7 Octa Core ,1,4.4
+231,231,HP,Windows 11,16,512,55079,14,Intel Core i5 ,1,4.2
+232,232,ASUS,Windows 10,8,1024,87390,15.6,Intel Core i7 ,1,4.3
+233,233,Lenovo,Windows 11,16,512,65490,14,AMD Ryzen 5 Hexa Core ,1,4.5
+234,234,ASUS,Windows 11,16,512,62990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+235,235,Lenovo,Windows 11,8,512,43990,14,Intel Core i5 ,1,4.4
+236,236,DELL,Windows 11,16,512,51499,15.6,Intel Core i5 ,1,4.4
+237,237,HP,Windows 11,8,512,45999,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+238,238,DELL,Windows 11,8,512,41999,15.6,Intel Core i3 ,1,4.1
+239,239,HP,Windows 11,8,512,46990,14,AMD Ryzen 7 Dual Core ,1,4.1
+240,240,ASUS,Windows 10,16,1024,49990,15.6,Intel Core i5 ,1,4.3
+241,241,HP,Windows 11,16,512,64391,13.3,AMD Ryzen 5 Hexa Core ,1,4.3
+242,242,HP,Windows 11,8,512,74469,13.3,Intel Core i5 ,1,4.4
+243,243,DELL,Windows 11,16,512,51499,15.6,Intel Core i5 ,1,4.4
+244,244,HP,Windows 11,8,512,45999,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+245,245,ASUS,Windows 11,16,512,62990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+246,246,HP,Windows 11,8,512,57490,15.6,AMD Ryzen 5 Hexa Core ,1,4.9
+247,247,Lenovo,Windows 11,8,512,43990,14,Intel Core i5 ,1,4.9
+248,248,ASUS,Windows 11,8,512,44500,15.6,Intel Core i3 ,1,4.3
+249,249,DELL,Windows 11,8,1024,46990,15.6,Intel Core i3 ,1,4.1
+250,250,HP,Windows 11,16,512,97990,15.6,Intel Core i7 ,1,4.1
+251,251,DELL,Windows 11,8,512,44800,15.6,Intel Core i5 ,1,3.8
+252,252,Apple,Mac,8,256,99900,13.6,Apple M2 ,1,4.7
+253,253,SAMSUNG,Windows 11,16,1024,134990,15.6,Intel Core i7 ,1,4.7
+254,254,Lenovo,Windows 11,8,512,44890,15.6,Intel Core i5 ,1,4.2
+255,255,ASUS,Windows 11,16,512,53313,15.6,Intel Core i5 ,1,4.2
+256,256,HP,Windows 11,8,512,40490,15.6,Intel Core i3 ,1,3.6
+257,257,DELL,Windows 11,16,512,73600,16,Intel Core i5 ,1,4.4
+258,258,SAMSUNG,Windows 11,16,512,89990,15.6,Intel Core i7 ,1,4.5
+259,259,Apple,Mac,8,512,144990,15.3,Apple M2 ,1,4.7
+260,260,HP,Windows 11,8,512,55157,15.6,Intel Core i5 ,1,4.2
+261,261,ASUS,Windows 11,16,1024,80490,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+262,262,ASUS,Windows 11,8,512,40840,14,AMD Ryzen 5 Quad Core ,1,4.3
+263,263,Lenovo,Windows 11,8,512,66990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+264,264,ASUS,Windows 11,16,512,45890,14,AMD Ryzen 5 Quad Core ,1,4.4
+265,265,ASUS,Windows 11,8,512,40840,14,AMD Ryzen 5 Quad Core ,1,4.4
+266,266,Lenovo,Windows 11,8,512,66990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+267,267,DELL,Windows 10,8,512,76900,14,Intel Core i5 ,1,4.5
+268,268,ASUS,Windows 11,16,1024,80490,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+269,269,ASUS,Windows 11,16,1024,78990,15.6,Intel Core i7 ,1,4.3
+270,270,ASUS,Windows 11,8,512,50500,15.6,Intel Core i5 ,1,4.4
+271,271,DELL,Windows 11,16,512,63890,16,Intel Core i5 ,1,4.4
+272,272,DELL,Windows 11,8,512,53999,14,Intel Core i5 ,1,3.5
+273,273,ASUS,Windows 11,16,512,91990,14,Intel Core i5 ,1,3.3
+274,274,ASUS,Windows 11,32,2048,361990,16,AMD Ryzen 9 Octa Core ,1,3.3
+275,275,HP,Windows 11,8,512,50499,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+276,276,ASUS,Windows 11,16,512,52990,7,AMD Ryzen Z1 HexaCore ,1,4.4
+277,277,ASUS,Windows 10,32,1024,149990,13.4,AMD Ryzen 9 Octa Core ,1,4.4
+278,278,ASUS,Windows 11,16,1024,153600,18,Intel Core i7 ,1,4.3
+279,279,ASUS,Windows 11,16,1024,129990,15.6,AMD Ryzen 9 Octa Core ,1,4.5
+280,280,Lenovo,Windows 10,8,512,53000,15.6,Intel Core i5 ,1,4.5
+281,281,Lenovo,Windows 10,8,512,53000,15.6,Intel Core i5 ,1,4.1
+282,282,Apple,Mac,8,1024,169900,14,Apple M3 ,1,4.1
+283,283,Apple,Mac,8,1024,169900,14,Apple M3 ,1,4.1
+284,284,ASUS,Windows 11,32,2048,349990,16,AMD Ryzen 9 16 Core ,1,4.1
+285,285,ASUS,Windows 11,16,1024,109990,16,Intel Core i5 ,1,4.1
+286,286,ASUS,Windows 11,16,1024,95899,15.6,Intel Core i7 ,1,4.4
+287,287,Lenovo,Windows 10,8,512,49990,15.6,Intel Core i5 ,2,2.8
+288,288,DELL,Windows 11,8,512,43999,13.78,Intel Core i3 ,1,3.9
+289,289,ASUS,Windows 11,16,1024,99990,16,Intel Core i5 ,1,4.4
+290,290,ASUS,Windows 10,8,1024,59699,14,Intel Core i7 ,1,4.4
+291,291,DELL,Windows 11,16,1024,83390,14.1,Intel Core i7 ,1,3.6
+292,292,DELL,Windows 11,8,1024,46990,15.6,AMD Ryzen 5 Quad Core ,1,3.6
+293,293,Lenovo,Windows 11,16,512,83990,15.6,Intel Core i5 ,1,4.3
+294,294,ASUS,Windows 11,16,512,69990,15.6,AMD Ryzen 7 Octa Core ,1,4.5
+295,295,DELL,Windows 10,8,512,61500,15.6,AMD Ryzen 7 Quad Core ,1,4.4
+296,296,SAMSUNG,Windows 11,16,512,79990,15.6,Intel Core i5 ,1,4.4
+297,297,ASUS,Windows 11,32,1024,241990,16,Intel Core i9 ,1,4.8
+298,298,ASUS,Windows 10,8,1024,58368,15.6,Intel Core i5 ,1,4.3
+299,299,HP,Windows 11,16,512,73490,15.6,Intel Core i5 ,1,4.2
+300,300,HP,Windows 11,8,512,74999,15.6,AMD Ryzen 5 Hexa Core ,1,4.5
+301,301,Lenovo,Windows 11,16,1024,75990,16,Intel Core Ultra 5 ,1,4.4
+302,302,ASUS,Windows 11,16,512,99990,16,Intel Core i7 ,1,3.3
+303,303,HP,Windows 11,8,512,44990,15.6,Intel Core i3 ,1,4.2
+304,304,Lenovo,Windows 11,16,512,48990,16,AMD Ryzen 7 Octa Core ,1,4.2
+305,305,DELL,Windows 11,16,512,68649,14,Intel Core i5 ,1,4.2
+306,306,Lenovo,Windows 11,16,1024,104990,16,AMD Ryzen 7 Octa Core ,1,4.4
+307,307,HP,Windows 11,8,512,55990,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+308,308,DELL,Windows 11,8,512,41350,14,Intel Core i3 ,1,4.4
+309,309,Lenovo,Windows 11,16,1024,99990,15.6,AMD Ryzen 7 Octa Core ,1,4.5
+310,310,DELL,Windows 11,8,1024,99990,14.96,Intel Core i3 ,1,3.6
+311,311,ASUS,Windows 11,16,512,72990,15.6,Intel Core i5 ,1,4.5
+312,312,ASUS,Windows 11,16,512,60990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+313,313,HP,Windows 11,16,512,79990,15.6,Intel Core i5 ,1,4.3
+314,314,HP,Windows 11,16,512,67990,14,Intel Core i7 ,1,3.3
+315,315,ASUS,Windows 11,8,512,47990,16,AMD Ryzen 5 Hexa Core ,1,4.4
+316,316,ASUS,Windows 11,8,512,41827,15.6,Intel Core i3 ,1,4.4
+317,317,ASUS,Windows 11,8,512,74784,17.3,AMD Ryzen 7 Octa Core ,1,4.4
+318,318,HP,Windows 11,8,512,59990,15.6,Intel Core i5 ,1,4.2
+319,319,DELL,Windows 11,8,1024,59990,15.6,Intel Core i5 ,1,4.3
+320,320,DELL,Windows 11,8,256,43999,14,Intel Core i3 ,1,3.6
+321,321,DELL,Windows 11,8,512,74890,14,Intel Core i5 ,1,3.6
+322,322,Lenovo,Windows 11,16,512,76990,15.6,Intel Core i5 ,1,4.4
+323,323,Apple,Mac,32,1024,288990,14,Apple M2 Max ,1,4.4
+324,324,ASUS,Windows 11,8,1024,56990,15.6,Intel Core i5 ,1,4.5
+325,325,ASUS,Windows 11,16,512,89990,14,Intel Core i5 ,1,4.5
+326,326,HP,Windows 11,32,1024,161490,14,Intel Core Ultra 7 ,1,4.5
+327,327,Lenovo,Windows 10,8,256,57500,14,AMD Ryzen 5 Hexa Core ,1,4.4
+328,328,HP,Windows 11,16,512,62500,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+329,329,ASUS,Windows 11,8,512,56250,17.3,Intel Core i5 ,1,4.3
+330,330,HP,Windows 11,8,512,44990,15.6,AMD Ryzen 5 Quad Core ,1,4.4
+331,331,HP,Windows 11,8,512,46990,15.6,Intel Core i3 ,1,4.2
+332,332,Lenovo,Windows 11,8,512,48990,15.6,Intel Core i5 ,1,4.1
+333,333,ASUS,Windows 11,16,512,59990,14,Intel Core i5 ,1,4.1
+334,334,ASUS,Windows 11,16,1024,81990,17.3,AMD Ryzen 7 Octa Core ,1,4.1
+335,335,HP,Windows 11,8,512,55990,15.6,Intel Core i3 ,1,4.1
+336,336,DELL,Windows 11,16,1024,109655,15.6,AMD Ryzen 7 Octa Core ,1,4.8
+337,337,DELL,Windows 11,8,512,75490,15.6,Intel Core i5 ,1,4.8
+338,338,ASUS,Windows 10,8,1024,64990,15.6,Intel Core i5 ,1,4.5
+339,339,Lenovo,Windows 11,16,512,94000,15.6,Intel Core i7 ,1,4.2
+340,340,HP,Windows 11,16,512,59999,14,Intel Core i5 ,1,4.4
+341,341,HP,Windows 11,8,512,49490,15.6,AMD Ryzen 5 ,1,4.4
+342,342,ASUS,Windows 11,16,1024,140899,14,AMD Ryzen 9 Octa Core ,1,4.4
+343,343,HP,Windows 11,16,512,65490,14,Intel Core i5 ,1,4.4
+344,344,ASUS,Windows 11,16,1024,53990,16,AMD Ryzen 5 Hexa Core ,1,4.4
+345,345,HP,Windows 11,16,512,73500,15.6,Intel Core i7 ,1,4.4
+346,346,ASUS,Windows 11,16,1024,139990,14,AMD Ryzen 9 Octa Core ,1,4.4
+347,347,HP,Windows 11,16,512,70766,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+348,348,HP,Windows 11,8,512,58490,14,Intel Core i3 ,1,4.3
+349,349,Lenovo,Windows 11,8,512,59990,15.6,Intel Core i5 ,1,3.3
+350,350,ASUS,Windows 11,16,512,68999,15.6,Intel Core i5 ,1,3.3
+351,351,ASUS,Windows 11,8,512,48892,15.6,Intel Core i5 ,1,3.3
+352,352,DELL,Windows 11,32,1024,237890,17.3,Intel Core i7 ,1,3.3
+353,353,HP,Windows 10,4,512,50090,15.6,Intel Core i5 ,1,4.3
+354,354,Lenovo,Windows 11,16,1024,132190,16,AMD Ryzen 7 Octa Core ,1,3.3
+355,355,ASUS,Windows 11,16,512,59990,15.6,Intel Core i5 ,1,3.8
+356,356,HP,Windows 11,16,512,94990,16.1,Intel Core i5 ,1,4.4
+357,357,ASUS,Windows 11,16,512,53999,15.6,Intel Core i5 ,1,4.4
+358,358,HP,Windows 11,8,512,49490,15.6,Intel Core i5 ,1,4.4
+359,359,HP,Windows 11,8,512,40999,14,Intel Core i3 ,1,4.4
+360,360,Lenovo,Windows 11,16,1024,132190,16,AMD Ryzen 7 Octa Core ,1,3.3
+361,361,ASUS,Windows 11,16,512,59990,15.6,Intel Core i5 ,1,3.8
+362,362,ASUS,Windows 11,16,512,53999,15.6,Intel Core i5 ,1,3.8
+363,363,Lenovo,Windows 11,16,512,85990,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+364,364,Lenovo,Windows 11,8,512,56990,15.6,Intel Core i7 ,1,4.4
+365,365,DELL,Windows 11,16,512,46800,14,AMD Ryzen 5 Hexa Core ,1,4.5
+366,366,HP,Windows 11,8,512,48000,15.6,Intel Core i5 ,1,4.3
+367,367,Lenovo,Windows 10,16,512,87000,14,Intel Core i7 ,1,4.4
+368,368,HP,Windows 11,16,512,69990,15.6,Intel Core i5 ,1,4.3
+369,369,HP,Windows 11,16,1024,115990,13.3,Intel Core i7 ,1,4.3
+370,370,ASUS,Windows 11,16,512,66590,17.3,Intel Core i5 ,1,4.3
+371,371,Apple,Mac,8,256,125990,15.3,Apple M2 ,1,4.7
+372,372,HP,Windows 11,16,512,105990,15.6,Intel Core i7 ,1,4.7
+373,373,Lenovo,Windows 11,8,512,44611,14,Intel Core i5 ,1,4.7
+374,374,Lenovo,Windows 11,16,1024,114990,13.3,Intel Core i7 ,1,4.7
+375,375,DELL,Windows 11,8,512,47599,14,AMD Ryzen 5 Hexa Core ,1,4.7
+376,376,DELL,Windows 10,8,512,67899,14,Intel Core i5 ,1,4.4
+377,377,DELL,Windows 11,8,512,59290,14,Intel Core i5 ,1,3.9
+378,378,Apple,Mac,8,512,119900,13.6,Apple M2 ,1,4.7
+379,379,HP,Windows 11,8,512,58990,14,Intel Core i5 ,1,4.2
+380,380,DELL,Windows 11,16,1024,129840,15.6,Intel Core i5 ,1,4.6
+381,381,DELL,Windows 11,8,512,40990,15.6,AMD Ryzen 5 Quad Core ,1,3.8
+382,382,Apple,Mac,16,1024,222990,14.2,Apple M1 Pro ,1,4.8
+383,383,ASUS,Windows 11,8,512,45490,15.6,Intel Core i3 ,1,4.2
+384,384,DELL,Windows 11,8,512,40990,15.6,AMD Ryzen 5 Quad Core ,1,3.8
+385,385,ASUS,Windows 11,8,512,43679,15.6,Intel Core i5 ,1,4.3
+386,386,ASUS,Windows 11,8,512,45490,15.6,Intel Core i3 ,1,4.2
+387,387,Apple,Mac,16,1024,222990,14.2,Apple M1 Pro ,1,4.8
+388,388,HP,Windows 11,8,512,59990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+389,389,Apple,Mac,8,256,125990,15.3,Apple M2 ,1,4.7
+390,390,DELL,Windows 11,32,1024,389990,16,Intel Core i9 ,1,4.7
+391,391,SAMSUNG,Windows 11,16,1024,140990,14,Intel Core i7 ,1,4.1
+392,392,HP,Windows 11,8,512,55500,16.1,Intel Core i5 ,1,4.3
+393,393,HP,Windows 10,16,512,81999,13.3,Intel Core i5 ,1,4.3
+394,394,HP,Windows 11,8,512,59990,15.6,Intel Core i5 ,1,4.2
+395,395,ASUS,Windows 11,16,512,93500,15.6,AMD Ryzen 7 Octa Core ,1,4.1
+396,396,HP,Windows 11,16,512,66999,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+397,397,HP,Windows 11,16,512,62990,14,Intel Core i5 ,1,4.2
+398,398,HP,Windows 11,16,512,83999,16.1,AMD Ryzen 7 Octa Core ,1,4.4
+399,399,HP,Windows 11,16,512,66999,15.6,Intel Core i5 ,1,4.1
+400,400,ASUS,Windows 11,16,1024,109900,15.6,Intel Core i9 ,1,4.3
+401,401,DELL,Windows 11,8,256,41430,15.6,AMD Ryzen 5 Quad Core ,1,3.8
+402,402,DELL,Windows 11,16,512,74000,14,Intel Core i5 ,1,3.8
+403,403,ASUS,Windows 11,8,512,54719,15.6,AMD Ryzen 5 Hexa Core ,1,4.5
+404,404,Apple,Mac,8,512,119900,13.6,Apple M2 ,1,4.7
+405,405,HP,Windows 11,16,512,105800,16.1,AMD Ryzen 7 Octa Core ,1,3.7
+406,406,Lenovo,Windows 10,8,256,43500,14,Intel Core i5 ,1,4.6
+407,407,ASUS,Windows 11,16,512,60990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+408,408,DELL,Windows 11,8,512,51999,15.6,Intel Core i5 ,1,4.8
+409,409,DELL,Windows 11,16,512,71990,15.6,Intel Core i7 ,1,4.8
+410,410,ASUS,Windows 11,8,512,71990,17.3,Intel Core i5 ,1,4.8
+411,411,Lenovo,Windows 11,8,1024,58900,15.6,AMD Ryzen 5 Hexa Core ,1,4.2
+412,412,ASUS,Windows 11,8,512,50990,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+413,413,HP,Windows 11,16,512,134990,16.1,Intel Core i7 ,1,4.4
+414,414,HP,Windows 11,16,1024,89999,15.6,Intel Core i7 ,1,4.6
+415,415,ASUS,Windows 11,8,1024,57590,15.6,Intel Core i5 ,1,3.8
+416,416,ASUS,Windows 11,16,1024,119990,16,AMD Ryzen 9 Octa Core ,1,4.8
+417,417,ASUS,Windows 11,32,2048,289990,16,Intel Core i9 ,1,4.8
+418,418,Lenovo,Windows 11,16,512,58490,15.6,Intel Core i7 ,1,4.8
+419,419,ASUS,Windows 11,16,512,86999,15.6,Intel Core i5 ,1,4.4
+420,420,ASUS,Windows 11,16,1024,116000,17.3,Intel Core i7 ,1,4.3
+421,421,ASUS,Windows 11,8,512,47990,15.6,Intel Core i5 ,1,3.8
+422,422,HP,Windows 11,16,1024,199990,16,Intel Core i7 ,1,3.8
+423,423,ASUS,Windows 11,16,1024,82990,16,Intel Core i7 ,1,4.1
+424,424,ASUS,Windows 11,16,1024,144990,13.3,Intel Core i7 ,1,4.1
+425,425,DELL,Windows 11,16,512,56500,14,AMD Ryzen 7 Octa Core ,1,2.3
+426,426,SAMSUNG,Windows 11,16,512,163990,16,Intel Core Ultra 7 ,1,2.3
+427,427,ASUS,Windows 11,8,512,51839,15.6,Intel Core i5 ,1,4.3
+428,428,Apple,Mac,18,512,163990,16,Apple M3 Pro ,1,4.3
+429,429,ASUS,Windows 11,8,512,55990,15.6,Intel Hexa Core i5 ,1,4.3
+430,430,HP,Windows 11,16,512,86700,15.6,Intel Core i7 ,1,4.3
+431,431,ASUS,Windows 11,16,512,93018,14,Intel Core i5 ,1,4.3
+432,432,Apple,Mac,8,512,119900,13.6,Apple M2 ,1,4.8
+433,433,DELL,Windows 11,32,1024,237890,17.3,Intel Core i7 ,1,4.8
+434,434,HP,Windows 11,32,1024,239299,16,Intel Core i9 ,1,4.8
+435,435,HP,Windows 11,16,512,59755,15.6,Intel Core i5 ,1,3.5
+436,436,ASUS,Windows 11,16,1024,109900,15.6,Intel Core i9 ,1,4.3
+437,437,HP,Windows 11,16,512,77500,14,Intel Core i5 ,1,4.3
+438,438,HP,Windows 11,16,512,84800,15.6,Intel Core i5 ,1,4.3
+439,439,HP,Windows 11,8,512,41000,15.6,Intel Core i3 ,1,4.4
+440,440,ASUS,Windows 11,16,512,59990,15.6,Intel Core i5 ,1,3.8
+441,441,DELL,Windows 11,16,1024,178499,13.4,Intel Core i7 ,1,3.8
+442,442,Lenovo,Windows 11,8,512,50790,15.6,Intel Core i5 ,1,4.3
+443,443,Lenovo,Windows 11,8,512,46990,15.6,Intel Core i5 ,1,4.3
+444,444,ASUS,Windows 11,16,1024,85999,15.6,AMD Ryzen 7 Octa Core ,1,4.5
+445,445,DELL,Windows 11,8,512,76990,15.6,Intel Core i5 ,1,4.5
+446,446,HP,Windows 11,16,1024,73780,15.6,Intel Core i5 ,1,4.3
+447,447,HP,Windows 11,16,512,51000,15.6,Intel Core i5 ,1,4.5
+448,448,HP,Windows 11,16,1024,89890,15.6,Intel Core i7 ,1,4.2
+449,449,ASUS,Windows 11,16,512,94990,16,Intel Core i5 ,1,4.2
+450,450,ASUS,Windows 11,16,512,94990,15.6,AMD Ryzen 7 Octa Core ,1,4.2
+451,451,Lenovo,Windows 11,8,512,44444,15.6,AMD Ryzen 5 ,1,4.2
+452,452,SAMSUNG,Windows 11,16,1024,169990,16,Intel Core i7 ,1,4.7
+453,453,SAMSUNG,Windows 11,16,1024,140990,14,Intel Core i7 ,1,4.1
+454,454,ASUS,Windows 11,32,2048,329990,16,Intel Core i9 ,1,4.1
+455,455,HP,Windows 11,8,512,40400,15.6,AMD Ryzen 3 Quad Core ,1,4.2
+456,456,ASUS,Windows 11,16,512,66590,17.3,Intel Core i5 ,1,4.3
+457,457,ASUS,Windows 11,8,512,41990,14.1,Intel Core i3 ,1,4.4
+458,458,HP,Windows 11,16,512,64444,15.6,Intel Core i5 ,1,3.8
+459,459,HP,Windows 11,16,512,58500,15.6,AMD Ryzen 5 Hexa Core ,1,4.1
+460,460,DELL,Windows 11,8,1024,48490,15.6,AMD Ryzen 5 Quad Core ,1,4.1
+461,461,DELL,Windows 11,16,512,144785,16,Intel Core i7 ,1,4.1
+462,462,HP,Windows 10,8,512,40999,14,Intel Core i3 ,1,4.1
+463,463,HP,Windows 11,8,1024,40050,15.6,Intel Core i3 ,1,4.2
+464,464,HP,Windows 11,8,512,82899,15.6,Intel Core i7 ,1,4.2
+465,465,HP,Windows 11,16,512,66499,15.6,Intel Core i5 ,1,4.2
+466,466,HP,Windows 11,8,512,57999,15.6,Intel Core i5 ,1,4.2
+467,467,HP,Windows 11,16,512,154999,13.5,Intel Core i7 ,1,4.2
+468,468,HP,Windows 11,16,512,75990,16.1,AMD Ryzen 7 Octa Core ,1,4.5
+469,469,ASUS,Windows 11,16,512,66990,15.6,Intel Core i5 ,1,4.5
+470,470,Lenovo,Windows 11,16,512,58990,15.6,Intel Core i7 ,1,4.6
+471,471,DELL,Windows 11,8,512,40770,14,Intel Core i3 ,1,4.5
+472,472,DELL,Windows 11,8,512,59490,14,Intel Core i5 ,1,3.8
+473,473,Lenovo,Windows 11,16,512,92990,15.6,AMD Ryzen 7 Octa Core ,1,4.6
+474,474,SAMSUNG,Windows 11,16,512,117990,13.3,Intel Core i5 ,1,4.6
+475,475,ASUS,Windows 11,16,512,65990,15.6,Intel Core i5 ,1,4.6
+476,476,HP,Windows 11,8,512,85310,16.1,AMD Ryzen 5 Hexa Core ,1,4.3
+477,477,ASUS,Windows 10,32,1024,118990,13.4,AMD Ryzen 9 Octa Core ,1,4.1
+478,478,Lenovo,Windows 11,16,512,87990,14,Intel Core i7 ,1,4.7
+479,479,SAMSUNG,Windows 11,16,1024,133990,13.3,Intel Core i7 ,1,3.8
+480,480,HP,Windows 11,8,512,54140,15.6,Intel Core i5 ,1,4.2
+481,481,DELL,Windows 10,16,512,74999,14,Intel Core i5 ,1,4.1
+482,482,HP,Windows 11,16,512,99999,15.6,Intel Core i5 ,1,4.1
+483,483,SAMSUNG,Windows 11,16,512,153990,16,Intel Core i7 ,1,4.1
+484,484,HP,Windows 11,8,512,40400,15.6,AMD Ryzen 3 Quad Core ,1,4.2
+485,485,ASUS,Windows 11,16,512,62990,15.6,AMD Ryzen 5 ,1,4.2
+486,486,HP,Windows 11,8,1024,40050,15.6,Intel Core i3 ,1,4.2
+487,487,HP,Windows 10,8,1024,51000,15.6,AMD Ryzen 5 Quad Core ,1,4.2
+488,488,SAMSUNG,Windows 11,16,512,122990,15.6,Intel Core 7 ,1,4.2
+489,489,ASUS,Windows 11,16,512,55290,15.6,AMD Ryzen 5 Quad Core ,1,4.4
+490,490,Lenovo,Windows 11,8,512,63390,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+491,491,HP,Windows 11,16,512,51000,15.6,Intel Core i5 ,1,4.5
+492,492,ASUS,Windows 11,16,512,84500,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+493,493,ASUS,Windows 11,16,512,118990,16,Intel Core i7 ,1,3.3
+494,494,Lenovo,Windows 11,16,512,100190,15.6,Intel Core i7 ,1,4.5
+495,495,DELL,Windows 11,16,512,58990,16,AMD Ryzen 5 Hexa Core ,1,4.5
+496,496,ASUS,Windows 11,16,512,58990,14,AMD Ryzen 5 Hexa Core ,1,4.2
+497,497,HP,Windows 11,8,512,71900,15.6,Intel Core i5 ,1,4.2
+498,498,ASUS,Windows 11,16,512,82990,15.6,Intel Core i5 ,1,4.3
+499,499,ASUS,Windows 10,16,1024,125663,15.6,Intel Core i9 ,1,4.3
+500,500,Apple,Mac,36,1024,297190,14,Apple M3 Max ,1,4.3
+501,501,Lenovo,Windows 11,8,512,44444,15.6,AMD Ryzen 5 ,1,4.3
+502,502,HP,Windows 11,16,512,77500,14,Intel Core i5 ,1,4.3
+503,503,DELL,Windows 10,16,512,51699,15.6,Intel Core i5 ,1,3.4
+504,504,Lenovo,Windows 11,32,1024,124990,16,AMD Ryzen 7 Octa Core ,1,3.4
+505,505,Lenovo,Windows 11,16,512,95390,16,Intel Core i7 ,1,4.6
+506,506,ASUS,Windows 11,8,512,63999,15.6,Intel Core i5 ,1,4.3
+507,507,DELL,Windows 11,8,512,59490,14,Intel Core i5 ,1,3.8
+508,508,HP,Windows 11,16,1024,76900,14,Intel Core i7 ,1,3.8
+509,509,ASUS,Windows 11,16,512,86399,17.3,AMD Ryzen 7 Octa Core ,1,4.7
+510,510,ASUS,Windows 11,16,1024,189990,16,Intel Core Ultra 7 ,1,4.7
+511,511,DELL,Windows 11,8,512,49000,14,Intel Core i5 ,1,4.5
+512,512,ASUS,Windows 11,16,512,94990,17.3,Intel Core i5 ,1,4.4
+513,513,HP,Windows 11,16,512,95990,15.6,Intel Core i5 ,1,4.7
+514,514,Apple,Mac,8,512,156290,14,Apple M3 ,1,4.7
+515,515,ASUS,Windows 10,16,1024,198990,15.6,AMD Ryzen 9 Octa Core ,1,4.8
+516,516,ASUS,Windows 11,8,512,42550,15.6,Intel Core i5 ,1,4.3
+517,517,ASUS,Windows 11,16,512,72990,14,Intel Core i5 ,1,4.3
+518,518,HP,Windows 10,8,512,44000,15.6,AMD Ryzen 5 Quad Core ,1,4.5
+519,519,HP,Windows 11,8,512,44290,14,Intel Core i3 ,1,4.3
+520,520,SAMSUNG,Windows 11,8,512,74990,15.6,Intel Core i5 ,1,4.4
+521,521,HP,Windows 11,32,2048,206999,17.3,Intel Core i9 ,1,4.4
+522,522,DELL,Windows 11,16,512,58900,15.6,Intel Core i5 ,1,4.4
+523,523,ASUS,Windows 11,16,1024,73990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+524,524,ASUS,Windows 11,16,512,99990,14,Intel Core i7 ,1,4.5
+525,525,HP,Windows 11,16,512,64444,15.6,Intel Core i5 ,1,3.8
+526,526,Lenovo,Windows 10,8,256,50000,15.6,Intel Core i5 ,2,4.3
+527,527,DELL,Windows 11,8,512,40770,14,Intel Core i3 ,1,4.5
+528,528,HP,Windows 11,16,512,58500,15.6,AMD Ryzen 5 Hexa Core ,1,4.1
+529,529,Apple,Mac,8,512,156290,14,Apple M3 ,1,4.1
+530,530,Lenovo,Windows 10,16,1024,116371,15.6,Intel Core i7 ,3,4.1
+531,531,HP,Windows 11,16,1024,89890,15.6,Intel Core i7 ,1,4.2
+532,532,ASUS,Windows 11,16,512,76990,16,Intel Core i5 ,1,4.2
+533,533,SAMSUNG,Windows 11,16,512,117990,13.3,Intel Core i5 ,1,4.6
+534,534,ASUS,Windows 11,8,256,42990,14,Intel Core i3 ,1,4.3
+535,535,HP,Windows 11,8,512,82899,15.6,Intel Core i7 ,1,4.3
+536,536,DELL,Windows 11,16,512,69490,14,Intel Core i7 ,1,4.5
+537,537,HP,Windows 11,8,512,57999,15.6,Intel Core i5 ,1,4.2
+538,538,HP,Windows 11,8,512,41000,15.6,Intel Core i3 ,1,4.4
+539,539,Lenovo,Windows 10,16,512,69390,14,AMD Ryzen 7 Octa Core ,1,4.5
+540,540,ASUS,Windows 11,8,512,54250,15.6,Intel Core i5 ,1,4.4
+541,541,ASUS,Windows 11,16,1024,71830,14,AMD Ryzen 7 Octa Core ,1,4.4
+542,542,SAMSUNG,Windows 11,16,512,134990,16,Intel Core i7 ,1,4.1
+543,543,ASUS,Windows 11,16,1024,123999,13.3,AMD Ryzen 7 Octa Core ,1,4.1
+544,544,HP,Windows 11,16,512,66499,15.6,Intel Core i5 ,1,4.2
+545,545,Lenovo,Windows 11,16,512,92990,15.6,AMD Ryzen 7 Octa Core ,1,4.6
+546,546,DELL,Windows 11,16,512,89990,14,Intel Core i7 ,3,4.6
+547,547,DELL,Windows 10,8,512,61999,15.6,Intel Core i3 ,1,4.3
+548,548,ASUS,Windows 11,16,512,65990,15.6,Intel Core i5 ,1,4.3
+549,549,SAMSUNG,Windows 11,32,1024,181990,16,Intel Core Ultra 7 ,1,4.3
+550,550,ASUS,Windows 11,16,512,73990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+551,551,HP,Windows 11,8,512,49121,15.6,Intel Core i5 ,1,4.2
+552,552,HP,Windows 11,16,512,69990,15.6,Intel Core i5 ,1,4.2
+553,553,Lenovo,Windows 11,8,512,45990,14,Intel Core i5 ,1,4.2
+554,554,Apple,Mac,32,1024,306990,16.2,Apple M1 Max ,1,4.4
+555,555,ASUS,Windows 10,16,1024,98063,14,Intel Core i7 ,3,4.4
+556,556,HP,Windows 11,16,1024,104990,16.1,AMD Ryzen 7 Octa Core ,1,4.6
+557,557,HP,Windows 11,32,1024,161490,14,Intel Core Ultra 7 ,1,4.6
+558,558,ASUS,Windows 11,8,512,50990,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+559,559,ASUS,Windows 11,16,512,99990,14,Intel Core i7 ,1,4.4
+560,560,Lenovo,Windows 11,16,512,66990,14,Intel Core i5 ,3,4.4
+561,561,HP,Windows 11,16,1024,110999,16.1,Intel Core i7 ,1,4.4
+562,562,ASUS,Windows 11,8,256,45890,14,Intel Core i5 ,1,4.8
+563,563,Lenovo,Windows 11,16,512,70790,15.6,AMD Ryzen 7 Octa Core ,1,4.5
+564,564,ASUS,Windows 11,16,512,79990,14,Intel Core i5 ,1,3.8
+565,565,ASUS,Windows 11,16,512,52990,16,AMD Ryzen 5 Hexa Core ,1,4.3
+566,566,ASUS,Windows 11,8,512,62390,15.6,Intel Core i5 ,1,3.5
+567,567,DELL,Windows 10,8,1024,45785,15.6,Intel Core i5 ,1,3.6
+568,568,Lenovo,Windows 11,8,512,72960,15.6,AMD Ryzen 7 Octa Core ,1,4.5
+569,569,HP,Windows 10,16,512,79999,13.3,AMD Ryzen 7 Quad Core ,1,4.5
+570,570,HP,Windows 11,16,1024,91999,14,AMD Ryzen 7 Octa Core ,1,4.5
+571,571,HP,Windows 11,16,512,85999,13.3,AMD Ryzen 7 Octa Core ,1,4.5
+572,572,DELL,Windows 11,16,512,64990,15.6,Intel Core i5 ,1,3.9
+573,573,ASUS,Windows 11,16,1024,102900,14,Intel Core Ultra 5 ,1,3.9
+574,574,Lenovo,Windows 10,8,512,64990,15.6,Intel Core i5 ,1,4.4
+575,575,HP,Windows 10,8,512,51200,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+576,576,ASUS,Windows 11,16,512,58990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+577,577,HP,Windows 10,8,512,54500,14,Intel Core i3 ,1,4.2
+578,578,Lenovo,Windows 11,16,512,62991,16,Intel Core i5 ,1,4.2
+579,579,ASUS,Windows 11,16,512,59990,15.6,Intel Core i5 ,1,4.2
+580,580,ASUS,Windows 11,8,512,94000,14,Intel Core i5 ,1,4.3
+581,581,HP,Windows 11,8,512,44999,14,Intel Core i5 ,1,4.3
+582,582,Lenovo,Windows 11,8,256,42500,14,Intel Core i3 ,1,3.3
+583,583,SAMSUNG,Windows 11,32,1024,181990,16,Intel Core Ultra 7 ,1,3.3
+584,584,ASUS,Windows 11,16,512,79990,14,Intel Core i5 ,1,4.1
+585,585,DELL,Windows 11,8,512,49000,14,Intel Core i5 ,1,4.5
+586,586,ASUS,Windows 11,16,512,89990,16,Intel Core i5 ,1,4.5
+587,587,HP,Windows 10,8,512,49500,15.6,Intel Core i5 ,1,4.3
+588,588,DELL,Windows 11,16,1024,102190,15.6,Intel Core i7 ,1,4.3
+589,589,DELL,Windows 10,8,1024,44000,15.6,Intel Core i3 ,1,4.2
+590,590,HP,Windows 11,16,512,91000,14,Intel Core i7 ,1,4.3
+591,591,ASUS,Windows 11,16,1024,73990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+592,592,ASUS,Windows 11,16,512,57500,16,AMD Ryzen 5 Hexa Core ,1,4.5
+593,593,HP,Windows 11,16,512,90500,14,Intel Core i7 ,1,4.3
+594,594,DELL,Windows 11,8,512,40999,14,Intel Core i5 ,1,4.3
+595,595,Lenovo,Windows 11,16,1024,62990,15.6,Intel Core i7 ,1,4.4
+596,596,ASUS,Windows 11,32,2048,369980,16,Intel Core i9 ,1,4.4
+597,597,Lenovo,Windows 10,16,512,62999,15.6,Intel Core i5 ,1,4.2
+598,598,Lenovo,Windows 11,8,512,42490,15.6,AMD Ryzen 5 Hexa Core ,1,4.2
+599,599,HP,Windows 11,8,512,79990,14,Intel Core i5 ,3,4.2
+600,600,Lenovo,Windows 11,16,512,64990,15.6,Intel Core i5 ,1,3.9
+601,601,DELL,Windows 10,8,1024,51990,15.6,Intel Core i5 ,1,3.7
+602,602,ASUS,Windows 11,8,512,49499,15.6,Intel Core i3 ,1,4.4
+603,603,HP,Windows 11,8,512,79990,14,Intel Core i5 ,3,4.4
+604,604,ASUS,Windows 11,16,1024,93100,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+605,605,Lenovo,Windows 11,8,512,63990,15.6,AMD Ryzen 5 Hexa Core ,1,4.3
+606,606,Lenovo,Windows 10,16,512,151999,13.3,Intel Core i7 ,3,4.3
+607,607,HP,Windows 10,16,1024,166499,16.1,Intel Core i7 ,1,4.3
+608,608,DELL,Windows 11,16,512,86790,14,Intel Core i7 ,1,4.7
+609,609,SAMSUNG,Windows 11,16,512,124990,14,Intel Core i7 ,1,4.1
+610,610,SAMSUNG,Windows 11,16,512,141990,16,Intel Core Ultra 5 ,1,4.1
+611,611,Lenovo,Windows 11,16,512,75190,13.3,AMD Ryzen 5 Hexa Core ,1,4.1
+612,612,ASUS,Windows 11,16,512,70990,15.6,Intel Core i5 ,1,3.9
+613,613,DELL,Windows 11,8,512,48470,14,Intel Core i5 ,1,3.2
+614,614,ASUS,Windows 11,8,512,77899,15.6,Intel Core i5 ,1,4.5
+615,615,HP,Windows 11,16,512,78007,14,Intel Core i5 ,1,4.1
+616,616,SAMSUNG,Windows 11,16,1024,179990,16,Intel Core Ultra 7 ,1,4.1
+617,617,ASUS,Windows 11,16,512,64990,14,Intel Core i5 ,1,4.1
+618,618,Lenovo,Windows 11,16,512,87990,14,Intel Core i7 ,1,4.7
+619,619,ASUS,Windows 11,16,512,58990,17.3,Intel Core i5 ,1,3.5
+620,620,ASUS,Windows 10,8,1024,87390,15.6,Intel Core i7 ,1,4.3
+621,621,HP,Windows 10,8,1024,56900,15.6,AMD Ryzen 5 Hexa Core ,1,4.1
+622,622,Lenovo,Windows 10,8,512,64990,15.6,Intel Core i5 ,1,4.2
+623,623,HP,Windows 11,16,1024,81100,14,Intel Core i7 ,1,4.2
+624,624,SAMSUNG,Windows 11,16,512,116990,14,Intel Core i5 ,1,4.5
+625,625,DELL,Windows 10,16,512,99900,15.6,Intel Core i7 ,1,4.3
+626,626,ASUS,Windows 11,16,512,69990,15.6,AMD Ryzen 7 Octa Core ,1,4.5
+627,627,SAMSUNG,Windows 11,16,1024,138990,15.6,Intel Core 7 ,1,4.5
+628,628,HP,Windows 11,16,1024,81100,14,Intel Core i7 ,1,4.2
+629,629,Lenovo,Windows 11,16,512,52500,15.6,Intel Core i5 ,1,4.3
+630,630,HP,Windows 11,16,1024,110999,16.1,Intel Core i7 ,1,4.3
+631,631,ASUS,Windows 11,8,256,40499,15.6,Intel Core i3 ,1,4.4
+632,632,HP,Windows 11,16,512,58800,15.6,AMD Ryzen 7 Octa Core ,1,4.4
+633,633,ASUS,Windows 11,8,512,43999,15.6,AMD Ryzen 3 Quad Core ,1,4.2
+634,634,Lenovo,Windows 11,16,512,66990,14,Intel Core i5 ,3,4.2
+635,635,HP,Windows 11,16,512,107990,15.6,Intel Core i7 ,1,4.6
+636,636,DELL,Windows 11,16,512,86990,16,AMD Ryzen 7 Octa Core ,1,4.2
+637,637,Lenovo,Windows 11,16,512,75190,13.3,AMD Ryzen 5 Hexa Core ,1,4.1
+638,638,ASUS,Windows 11,8,512,40499,15.6,Intel Core i3 ,1,4.3
+639,639,ASUS,Windows 11,8,1024,52000,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+640,640,Lenovo,Windows 11,16,512,63600,14,AMD Ryzen 7 Octa Core ,1,4.7
+641,641,HP,Windows 10,8,512,58559,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+642,642,ASUS,Windows 11,16,512,57990,15.6,AMD Ryzen 5 ,1,4.3
+643,643,ASUS,Windows 11,16,1024,110703,16,Intel Core i5 ,1,4.3
+644,644,ASUS,Windows 11,16,1024,88896,15.6,Intel Core i7 ,1,4.5
+645,645,HP,Windows 11,16,512,108000,16.1,AMD Ryzen 7 Octa Core ,1,4.4
+646,646,ASUS,Windows 11,16,512,94990,17.3,Intel Core i5 ,1,4.4
+647,647,HP,Windows 11,16,512,95990,15.6,Intel Core i5 ,1,4.7
+648,648,HP,Windows 11,8,1024,42300,15.6,Intel Core i3 ,1,4.6
+649,649,Lenovo,Windows 11,8,512,56938,14,Intel Core i5 ,1,4.3
+650,650,DELL,Windows 11,16,512,66850,14,Intel Core i5 ,1,3.6
+651,651,ASUS,Windows 11,8,512,50990,15.6,AMD Ryzen 5 Hexa Core ,1,4.4
+652,652,ASUS,Windows 11,8,512,71990,17.3,Intel Core i5 ,1,4.8
+653,653,ASUS,Windows 11,8,512,68990,15.6,Intel Core i5 ,1,4.8
+654,654,ASUS,Windows 11,8,512,42990,14,Intel Core i3 ,1,4.1
+655,655,Lenovo,Windows 10,4,256,40958,15.6,Intel Core i3 ,1,4.1
+656,656,ASUS,Windows 11,8,512,54990,14,Intel Core i5 ,1,4.3
+657,657,HP,Windows 11,16,1024,95990,14,Intel Core i7 ,1,4.3
+658,658,Lenovo,Windows 10,8,512,58500,13,Intel Core i5 ,1,4.1
+659,659,HP,Windows 10,8,512,71999,16.1,Intel Core i5 ,1,4.1
+660,660,HP,Windows 11,16,512,53900,15.6,AMD Ryzen 7 Octa Core ,1,4.1
+661,661,DELL,Windows 11,8,512,68700,15.6,Intel Core i5 ,1,4.1
+662,662,HP,Windows 11,8,512,79990,15.6,Intel Core i7 ,1,4.3
+663,663,ASUS,Windows 11,8,1024,52800,15.6,Intel Core i5 ,1,4.3
+664,664,ASUS,Windows 11,16,512,72990,14,Intel Core i5 ,1,4.3
+665,665,HP,Windows 11,8,512,63490,15.6,AMD Ryzen 5 Hexa Core ,1,4.1
+666,666,HP,Windows 11,8,512,62990,14,Intel Core i5 ,1,4.2
+667,667,ASUS,Windows 11,16,512,67990,15.6,AMD Ryzen 5 Hexa Core ,1,4.2
+668,668,DELL,Windows 11,16,1024,109471,15.6,AMD Ryzen 9 Octa Core ,1,4.2
+669,669,ASUS,Windows 11,16,1024,73990,15.6,AMD Ryzen 7 Octa Core ,1,4.3
+670,670,SAMSUNG,Windows 11,32,1024,171990,14,Intel Core Ultra 7 ,1,4.3
+671,671,Lenovo,Windows 11,16,512,130990,16,AMD Ryzen 7 Octa Core ,1,4.3
